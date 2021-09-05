@@ -1,7 +1,7 @@
-# Martian
+# YouTube Video and Audio Downloader
 Visual Youtube Video-Audio Download to play
 
-# Made with Thonny
+# Made with Thonny / Python 3.x
 
 # Dependencies:
 - json
@@ -10,5 +10,3 @@ Visual Youtube Video-Audio Download to play
 - Moviepy
 - Pafy
 - youtube_search
-
-![Visual Windows Engine](https://github.com/xpie23w/Martian/blob/master/Sem%20t%C3%ADtulo.png?raw=true)
